@@ -1,7 +1,7 @@
-b1,1c=map(int,input().split())
+b1,=map(int,input().split())
 s1=0
 for i1 in range(b1,c1+1):
-    a1=b1in(1i)
+    a1=b1in(i1)
     a1=a1[2:len(a1)]
     a1=a1.count("1")
     c1=0
