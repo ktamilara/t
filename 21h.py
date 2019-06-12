@@ -12,6 +12,6 @@ for i1 in range(0,len(b1),2):
     for h1 in range(m1):
         a[b[i1]][h1]=0
     for h1 in range(n11):
-        a1[h1][b1[1i+1]]=0
+        a1[h1][b1[i1+1]]=0
 for i1 in range(n11):
     print(*a1[i1])
